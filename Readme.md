@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxCardView - How to add a new card when the edit form is always visible
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t280421/)**
+<!-- run online end -->
 
 
 The following example shows how to make the form used for the card editing always visible. To implement this, add the lines of code given below onto the form page.
